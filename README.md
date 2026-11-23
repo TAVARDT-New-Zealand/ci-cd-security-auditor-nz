@@ -3,7 +3,7 @@
 [![Licence](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![CI/CD Security](https://img.shields.io/badge/CI%2FCD-Security%20Hardened-00d26a.svg)](README.md)
 [![Language](https://img.shields.io/badge/Language-English-green.svg)](README.md)
-[![Engineering](https://img.shields.io/badge/TAVARDT-Cybersecurity-5b3cf5.svg)](https://ag.tavardt.com/nz/ciberseguranca/)
+[![Engineering](https://img.shields.io/badge/TAVARDT-Cybersecurity-5b3cf5.svg)](https://ag.tavardt.com/nz/cybersecurity/)
 
 Static defensive security auditor and policy linter for continuous integration pipelines (GitHub Actions). Identifies high-risk supply chain misconfigurations, vulnerable pull request triggers, excessive GITHUB_TOKEN permissions, and corporate secret exposure.
 
@@ -64,7 +64,7 @@ python scanner.py .github/workflows/ --json
 
 If your audit revealed pipeline vulnerabilities, credential leakage, or the need for Zero Trust runner governance:
 
-- **Institutional Portal:** [TAVARDT New Zealand](https://ag.tavardt.com/nz/ciberseguranca/)
+- **Institutional Portal:** [TAVARDT New Zealand](https://ag.tavardt.com/nz/cybersecurity/)
 - **Tools Center:** [TAVARDT Defensive Tools](https://tools.tavardt.com/nz/)
 - **Engineering Consultation:** [Incident Response & Architecture Review](https://ag.tavardt.com/nz/contato/)
 
