@@ -43,4 +43,12 @@ python audit_ci_cd_security.py .github/workflows/
 
 ***
 
+## Useful Links
+
+* **Corporate Portal:** https://ag.tavardt.com/nz/
+* **Diagnostic Suite:** https://tools.tavardt.com/nz/
+* **Technical Contact:** https://ag.tavardt.com/nz/contact/
+
+***
+
 © 2026 TAVARDT. All rights reserved.
